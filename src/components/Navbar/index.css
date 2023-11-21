@@ -1,0 +1,14 @@
+.nav-bar{
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: #252525;
+}
+.nav-bar li{
+    padding: 10px 20px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-weight: bold;
+}
